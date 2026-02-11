@@ -1,5 +1,5 @@
 ---
-mode: "edit"
+agent: "edit"
 description: "Analyze existing test cases and add missing coverage based on feature specifications"
 ---
 

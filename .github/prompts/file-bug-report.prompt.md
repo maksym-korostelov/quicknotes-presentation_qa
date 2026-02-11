@@ -1,5 +1,5 @@
 ---
-mode: "agent"
+agent: "agent"
 description: "Generate a structured bug report from a quick description, validated against feature specs"
 ---
 

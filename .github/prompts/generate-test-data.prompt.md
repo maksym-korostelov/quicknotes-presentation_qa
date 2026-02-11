@@ -1,5 +1,5 @@
 ---
-mode: "agent"
+agent: "agent"
 description: "Generate test data for a feature based on its specification and validation rules"
 ---
 

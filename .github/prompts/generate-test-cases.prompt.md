@@ -1,5 +1,5 @@
 ---
-mode: "agent"
+agent: "agent"
 description: "Generate comprehensive test cases for a QuickNotes feature using feature descriptions"
 ---
 

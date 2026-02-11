@@ -1,5 +1,5 @@
 ---
-mode: "agent"
+agent: "agent"
 description: "Generate a regression checklist tailored to a specific change or release"
 ---
 

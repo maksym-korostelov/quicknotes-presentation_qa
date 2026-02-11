@@ -1,5 +1,5 @@
 ---
-mode: "agent"
+agent: "agent"
 description: "Generate a test plan for a release or feature based on feature specifications"
 ---
 

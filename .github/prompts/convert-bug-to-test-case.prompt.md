@@ -1,5 +1,5 @@
 ---
-mode: "agent"
+agent: "agent"
 description: "Convert a resolved bug report into a permanent regression test case"
 ---
 

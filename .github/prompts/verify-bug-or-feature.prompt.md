@@ -1,5 +1,5 @@
 ---
-mode: "ask"
+agent: "ask"
 description: "Verify whether a reported behavior is a bug or expected feature per specifications"
 ---
 
